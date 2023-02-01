@@ -1,16 +1,5 @@
 <a href="https://github.com/Lost-Outpost/moonlit-tales/blob/main/README.md"><img src="images/banner.jpg" target="_blank"></a>
 
----
-
-<p align="center">
-  <a href="README.md">Installation</a> ·
-  <a href="GAMEPLAY.md">Gameplay Guide</a> ·
-  <a href="CHANGELOG.md">Changelog</a> ·
-  <a href="HELP.md">Help</a>
-</p>
-
----
-
 # Introduction
 
 Moonlit Tales is a lightweight and streamlined modlist with the very best modded content, creation club and survival support as well as excellent performance. It's designed to take up as little hard drive space as possible while still providing a performance friendly and beautiful graphics overhaul and enough content to discover for existing and new players.
