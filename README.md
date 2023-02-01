@@ -10,7 +10,7 @@ Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and 
 
 # Installation
 
-Installation is handled through [GDLauncher](https://gdlauncher.com/) with a one-click install of the modlist. Download the latest release from [here](https://github.com/Lost-Outpost/moonlit-tales/releases)
+Installation is handled through [GDLauncher](https://gdlauncher.com/) with a one-click install of the modlist. Download the latest release from [here](https://github.com/Lost-Outpost/moonlit-tales/releases) and use the import from zip feature in GDLauncher.
 
 # Issues
 
