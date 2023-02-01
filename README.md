@@ -13,7 +13,6 @@ Moonlit Tales is a lightweight vanilla+ RPG modpack for Minecraft 1.19.2 with th
 - Tons of structures and overhauled vanilla structures from [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects), [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) and [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
 - Tons of new biomes from [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) so you never get tired of exploring
 - Additional Vanilla+ content mods like [Incubation](https://www.curseforge.com/minecraft/mc-mods/incubation), [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees), [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
-- 
 
 ## Community
 
