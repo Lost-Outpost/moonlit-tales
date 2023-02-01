@@ -11,6 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "Moonlit Tales",
+  "version": "1.0.0",
   "author": "",
   "files": [
     {
@@ -176,6 +177,11 @@
     {
       "projectID": 448233,
       "fileID": 3914299,
+      "required": true
+    },
+    {
+      "projectID": 551894,
+      "fileID": 4058404,
       "required": true
     },
     {
@@ -604,13 +610,13 @@
       "required": true
     },
     {
-      "projectID": 399090,
-      "fileID": 3901488,
+      "projectID": 459701,
+      "fileID": 4171024,
       "required": true
     },
     {
-      "projectID": 459701,
-      "fileID": 4171024,
+      "projectID": 399090,
+      "fileID": 3901488,
       "required": true
     },
     {
@@ -619,13 +625,13 @@
       "required": true
     },
     {
-      "projectID": 308989,
-      "fileID": 3929284,
+      "projectID": 361718,
+      "fileID": 3906687,
       "required": true
     },
     {
-      "projectID": 361718,
-      "fileID": 3906687,
+      "projectID": 308989,
+      "fileID": 3929284,
       "required": true
     },
     {
