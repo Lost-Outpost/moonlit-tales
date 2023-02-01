@@ -6,7 +6,7 @@ Moonlit Tales is a lightweight and streamlined modlist with the very best modded
 
 ## Community
 
-Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/moonlit-tales/issues) section of the Moonlit Tales GitHub. If you have any questions following the add-on's instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
+Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/moonlit-tales/issues) section of the Moonlit Tales GitHub. If you have any questions following the install instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
 # Installation
 
