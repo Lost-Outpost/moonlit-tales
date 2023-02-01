@@ -1,0 +1,5 @@
+raycast = false
+automine = true
+snapBack = true
+rotationSpeed = 0.4
+sound = true
