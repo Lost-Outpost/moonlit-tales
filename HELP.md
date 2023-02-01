@@ -1,4 +1,4 @@
-<a href="https://www.youtube.com/watch?v=70DZ5UV1Bdo"><img src="images/banner.jpg" target="_blank"></a>
+<a href="https://github.com/Lost-Outpost/moonlit-tales/blob/main/README.md"><img src="images/banner.jpg" target="_blank"></a>
 
 ---
 
