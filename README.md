@@ -14,7 +14,7 @@ Installation is handled through [GDLauncher](https://gdlauncher.com/) with a one
 
 # Issues
 
-For issues, provide details in the [Moonlit Tales Github](https://github.com/Lost-Outpost/moonlit-tales/issues). Please provide as much info as you can (screenshots are great).
+For issues, provide details in the [Issues](https://github.com/Lost-Outpost/moonlit-tales/issues) page. Please provide as much info as you can (screenshots are great).
 
 # Moonlit Tales Team
 + Guitarninja :)
