@@ -14,7 +14,7 @@ Moonlit Tales is a lightweight vanilla+ RPG modpack for Minecraft 1.19.2 with th
 - Tons of new biomes from [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) so you never get tired of exploring
 - Additional Vanilla+ content mods like [Incubation](https://www.curseforge.com/minecraft/mc-mods/incubation), [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees), [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion)
 
-## Community
+# Community
 
 Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and in the [Issues](https://github.com/Lost-Outpost/moonlit-tales/issues) section of the Moonlit Tales GitHub. If you have any questions following the install instructions or if you find a typo or any other mistake in the documentation, feel free to report in The Lost Outpost Discord server's support channel.
 
