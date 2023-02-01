@@ -10,7 +10,7 @@ Moonlit Tales is a lightweight vanilla+ RPG modpack for Minecraft 1.19.2 with th
 - Settlement mechanics from [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) where you can create your own town full of NPCs to come home to
 - Teams and Territories from [OpenParties](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims) allowing you and your friends to claim territory on the map free from others
 - New farmables and things to cook with [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics), [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) and [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
-- Tons of structures and overhauled vanilla structures from [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects), [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) and [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) and 
+- Tons of structures and overhauled vanilla structures from [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects), [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) and [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise) 
 
 ## Community
 
