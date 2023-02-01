@@ -13,7 +13,7 @@ Moonlit Tales is a lightweight vanilla+ RPG modpack for Minecraft 1.19.2 with th
 - New farmables and things to cook with [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics), [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight) and [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
 - Tons of structures and overhauled vanilla structures from [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects), [Repurposed Structures](https://www.curseforge.com/minecraft/mc-mods/repurposed-structures) and [When Dungeons Arise](https://www.curseforge.com/minecraft/mc-mods/when-dungeons-arise)
 - Tons of new biomes from [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty) so you never get tired of exploring
-- Additional Vanilla+ content mods like [Incubation](https://www.curseforge.com/minecraft/mc-mods/incubation), [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees) and [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion), [Berry Good](https://www.curseforge.com/minecraft/mc-mods/berry-good)
+- Additional Vanilla+ content mods like [Incubation](https://www.curseforge.com/minecraft/mc-mods/incubation), [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees), [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion) and [Berry Good](https://www.curseforge.com/minecraft/mc-mods/berry-good)
 
 # Community
 
