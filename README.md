@@ -4,7 +4,6 @@
 
 Moonlit Tales is a lightweight vanilla+ RPG modpack for Minecraft 1.19.2 with the best additional modded content. You can expect the following types of content:
 
-- RPG-Like Start with [Origins](https://www.curseforge.com/minecraft/mc-mods/origins-forge) and [Origins: Classes](https://www.curseforge.com/minecraft/mc-mods/origins-classes-forge) allowing you to choose a race and class specialization
 - Tech for improved automation from [Create](https://www.curseforge.com/minecraft/mc-mods/create) allowing you to create your own huge factories
 - Improved combat with [Better Combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus), [Combat Roll](https://www.curseforge.com/minecraft/mc-mods/combat-roll), [Alex's Armoury](https://www.curseforge.com/minecraft/mc-mods/alexs-armoury) and [Immersive Armors](https://www.curseforge.com/minecraft/mc-mods/immersive-armors) for much more diverse combat styles
 - Many new mobs and ambient creatures from [Friends & Foes](https://www.curseforge.com/minecraft/mc-mods/friends-and-foes-forge), [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs), [Creeper Overhaul](https://www.curseforge.com/minecraft/mc-mods/creeper-overhaul) and [Aquamirae](https://www.curseforge.com/minecraft/mc-mods/ob-aquamirae) with a ton to find
