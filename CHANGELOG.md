@@ -2,5 +2,14 @@
 
 # Changelog
 
+### Version 1.0.1
+
+### Updated
+- Biomes O' Plenty
+
+### Removed
+- Origins (Caused huge lag spikes)
+- Origins: Classes 
+
 ### Version 1.0.0
 Brand new :)
