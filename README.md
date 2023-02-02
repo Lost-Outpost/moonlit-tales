@@ -20,7 +20,7 @@ Support is offered in [The Lost Outpost](https://discord.gg/WF66mMu) server and 
 
 # Installation
 
-Installation is handled through [GDLauncher](https://gdlauncher.com/) or [CurseForge](https://download.curseforge.com/) with a one-click install of the modlist. Download the latest `Moonlit Tales` release from [here](https://github.com/Lost-Outpost/moonlit-tales/releases) and use the import from zip feature in either launcher.
+Installation is handled through [GDLauncher](https://gdlauncher.com/) or [CurseForge](https://download.curseforge.com/) with a one-click install of the modlist. Download the latest `Moonlit Tales` release from [here](https://github.com/Lost-Outpost/moonlit-tales/releases) and use the import from zip feature in either launcher. You can keep up with changes on the [changelog](https://github.com/Lost-Outpost/moonlit-tales/blob/main/CHANGELOG.md) page.
 
 # Issues
 
