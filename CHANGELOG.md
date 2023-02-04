@@ -2,5 +2,13 @@
 
 # Changelog
 
+## Version 1.0.1 [Unreleased]
+
+### Added
++ Polymorph
++ Immersive Armors
++ Miner's Delight
++ Honey Expansion (Farmer's Delight)
+
 ## Version 1.0.0
 Brand new :)
