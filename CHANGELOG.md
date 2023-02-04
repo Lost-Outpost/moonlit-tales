@@ -9,6 +9,7 @@
 + Immersive Armors
 + Miner's Delight
 + Honey Expansion (Farmer's Delight)
++ Minecolonies Resource Pack (More voicelines)
 
 ## Version 1.0.0
 Brand new :)
