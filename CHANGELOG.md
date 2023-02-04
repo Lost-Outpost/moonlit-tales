@@ -11,6 +11,10 @@
 + Honey Expansion (Farmer's Delight)
 + Minecolonies Resource Pack (More voicelines)
 + Upgrade Aquatic
++ Atmopsheric
++ Autumnity
++ Unusual End
++ Xtra Arrows
 
 ## Version 1.0.0
 Brand new :)
