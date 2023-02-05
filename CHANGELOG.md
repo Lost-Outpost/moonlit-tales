@@ -17,9 +17,12 @@
 + Xtra Arrows
 + Clayworks
 + Environmental
++ Aaudio
 
 ### Removed
 + Notes
++ Chalk
++ Map Atlas
 
 ## Version 1.0.0
 Brand new :)
