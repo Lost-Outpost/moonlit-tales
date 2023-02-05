@@ -15,6 +15,8 @@
 + Autumnity
 + Unusual End
 + Xtra Arrows
++ Clayworks
++ Environmental
 
 ## Version 1.0.0
 Brand new :)
