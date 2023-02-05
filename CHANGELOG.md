@@ -16,7 +16,6 @@
 + Unusual End
 + Xtra Arrows
 + Clayworks
-+ Environmental
 + LazyDFU
 
 
