@@ -15,9 +15,8 @@
 + Autumnity
 + Unusual End
 + Xtra Arrows
++ Environmental
 + Clayworks
-+ LazyDFU
-
 
 ### Removed
 + Notes
@@ -26,6 +25,8 @@
 + Aaudio
 + Second Chance
 + Polylib
++ Little Logistics
++ Little Contraptions
 
 ## Version 1.0.0
 Brand new :)
