@@ -17,12 +17,16 @@
 + Xtra Arrows
 + Clayworks
 + Environmental
-+ Aaudio
++ LazyDFU
+
 
 ### Removed
 + Notes
 + Chalk
 + Map Atlas
++ Aaudio
++ Second Chance
++ Polylib
 
 ## Version 1.0.0
 Brand new :)
