@@ -4,7 +4,7 @@
 
 Moonlit Tales is a lightweight vanilla+ RPG modpack for Minecraft 1.18.2 with the best additional modded content. You can expect the following types of content:
 
-- Tech for improved automation from [Create](https://www.curseforge.com/minecraft/mc-mods/create), [Little Contraptions](https://www.curseforge.com/minecraft/mc-mods/little-contraptions) and [Little Logistics](https://www.curseforge.com/minecraft/mc-mods/little-logistics) allowing you to create your own huge factories
+- Tech for improved automation from [Create](https://www.curseforge.com/minecraft/mc-mods/create), allowing you to create your own huge factories
 - Improved combat with [Better Combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus), [Epic Knights](https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons) and [Immersive Armors](https://www.curseforge.com/minecraft/mc-mods/immersive-armors) for much more diverse combat styles
 - Many new mobs and ambient creatures from [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) and [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) with a ton to find
 - Settlement mechanics from [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) where you can create your own town full of NPCs to come home to
