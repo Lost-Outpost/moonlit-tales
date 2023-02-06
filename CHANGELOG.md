@@ -43,5 +43,8 @@
 + Map Atlas
 + Corail Woodcutter
 
+### Fixed
++ Lowered drop rate of Matcha Leaves and Acorns to Apple level
+
 ## Version 1.0.0
 Brand new :)
