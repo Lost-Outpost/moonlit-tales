@@ -4,29 +4,43 @@
 
 ## Version 1.0.1 [Unreleased]
 
+**Cut a lot of fat and add the rest of Team Abnormals fantastic mods. I will be doing more in-depth patching later on.**
+
 ### Added
 + Polymorph
-+ Immersive Armors
 + Miner's Delight
-+ Honey Expansion (Farmer's Delight)
 + Minecolonies Resource Pack (More voicelines)
 + Upgrade Aquatic
 + Atmopsheric
 + Autumnity
-+ Unusual End
-+ Xtra Arrows
 + Environmental
 + Clayworks
++ Woodworks
++ Boatload
++ Allurement
++ Berry Good
++ Buzzier Bees
++ Incubation
++ Neapolitan
++ Personality
++ Savage & Ravage
++ Creeper Overhaul
++ Unusual End
++ Xtra Arrows
 
 ### Removed
 + Notes
 + Chalk
 + Map Atlas
-+ Aaudio
++ Aaudio (Useless lib)
 + Second Chance
 + Polylib
 + Little Logistics
 + Little Contraptions
++ Immersive Weathering
++ ConnectedTexturesMod (Doesn't work)
++ Map Atlas
++ Corail Woodcutter
 
 ## Version 1.0.0
 Brand new :)
