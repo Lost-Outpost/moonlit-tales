@@ -7,6 +7,7 @@
 **Cut a lot of fat and add the rest of Team Abnormals fantastic mods. I will be doing more in-depth patching later on for some misc issues.**
 
 ### Added
++ Aquamirae
 + Polymorph
 + Miner's Delight
 + Minecolonies Resource Pack (More voicelines)
