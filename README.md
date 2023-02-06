@@ -26,5 +26,8 @@ Installation is handled through [GDLauncher](https://gdlauncher.com/) or [CurseF
 
 For issues, provide details in the [Issues](https://github.com/Lost-Outpost/moonlit-tales/issues) page. Please provide as much info as you can (screenshots are great).
 
-# Moonlit Tales Team
-+ Guitarninja :)
+# Credits
+- [EminGTR - Complimentary Shaders](https://www.complementary.dev/)
+- [Vazkii - Bliss Modpack](https://www.curseforge.com/minecraft/modpacks/bliss)
+
+
