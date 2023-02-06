@@ -4,7 +4,7 @@
 
 ## Version 1.0.1 [Unreleased]
 
-**Cut a lot of fat and add the rest of Team Abnormals fantastic mods. I will be doing more in-depth patching later on.**
+**Cut a lot of fat and add the rest of Team Abnormals fantastic mods. I will be doing more in-depth patching later on for some misc issues.**
 
 ### Added
 + Polymorph
