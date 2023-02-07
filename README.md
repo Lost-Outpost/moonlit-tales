@@ -2,7 +2,7 @@
 
 # Introduction
 
-Moonlit Tales is a lightweight vanilla+ RPG modpack for Minecraft 1.18.2 with the best additional modded content. You can expect the following types of content:
+Explore and build up your town in this beautifully expanded and carefully integrated world. You can expect the following types of content:
 
 - Tech for improved automation from [Create](https://www.curseforge.com/minecraft/mc-mods/create), allowing you to create your own huge factories
 - Improved combat with [Better Combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus) and [Epic Knights](https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons) for much more diverse combat styles
