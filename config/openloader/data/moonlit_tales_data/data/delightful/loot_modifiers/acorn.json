@@ -1,0 +1,52 @@
+{
+  "type": "delightful:add_item",
+  "conditions": [
+    {
+      "condition": "delightful:enabled",
+      "item": "acorn"
+    },
+    {
+      "chance": 0.005,
+      "condition": "minecraft:random_chance"
+    },
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:match_tool",
+        "predicate": {
+          "tag": "forge:shears"
+        }
+      }
+    },
+    {
+      "condition": "minecraft:inverted",
+      "term": {
+        "condition": "minecraft:match_tool",
+        "predicate": {
+          "enchantments": [
+            {
+              "enchantment": "minecraft:silk_touch"
+            }
+          ]
+        }
+      }
+    },
+    {
+      "condition": "minecraft:alternative",
+      "terms": [
+        {
+          "block": "minecraft:oak_leaves",
+          "condition": "minecraft:block_state_property"
+        },
+        {
+          "block": "minecraft:dark_oak_leaves",
+          "condition": "minecraft:block_state_property"
+        }
+      ]
+    }
+  ],
+  "item": "delightful:acorn",
+  "maxAmount": 1,
+  "minAmount": 1,
+  "unique": true
+}

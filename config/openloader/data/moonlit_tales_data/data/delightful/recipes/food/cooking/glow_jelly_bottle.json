@@ -1,0 +1,35 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "delightful:enabled",
+          "value": "glow_jelly_bottle"
+        }
+      ],
+      "recipe": {
+        "type": "farmersdelight:cooking",
+        "cookingtime": 200,
+        "experience": 0.35,
+        "ingredients": [
+          {
+            "tag": "forge:fruits/glow_berries"
+          },
+          {
+            "tag": "forge:dusts/glowstone"
+          },
+          {
+            "tag": "forge:sugar"
+          },
+          {
+            "tag": "forge:sugar"
+          }
+        ],
+        "result": {
+          "item": "delightful:glow_jelly_bottle"
+        }
+      }
+    }
+  ]
+}

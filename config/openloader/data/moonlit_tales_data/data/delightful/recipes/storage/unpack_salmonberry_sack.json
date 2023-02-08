@@ -1,0 +1,25 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "delightful:enabled",
+          "value": "salmonberry_sack"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "item": "delightful:salmonberry_sack"
+          }
+        ],
+        "result": {
+          "count": 9,
+          "item": "delightful:salmonberries"
+        }
+      }
+    }
+  ]
+}

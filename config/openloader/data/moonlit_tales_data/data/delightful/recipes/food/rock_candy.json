@@ -1,0 +1,45 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "delightful:enabled",
+              "value": "rock_candy"
+            },
+            {
+              "type": "forge:not",
+              "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:gems/rose_quartz"
+              }
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "tag": "forge:gems/rose_quartz"
+          },
+          {
+            "tag": "forge:gems/rose_quartz"
+          },
+          {
+            "tag": "forge:sugar"
+          },
+          {
+            "tag": "forge:rods/wooden"
+          }
+        ],
+        "result": {
+          "item": "delightful:rock_candy"
+        }
+      }
+    }
+  ]
+}

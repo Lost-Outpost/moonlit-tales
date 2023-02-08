@@ -1,0 +1,10 @@
+
+#Client tweaks
+[client]
+	#If Powder Snow should drop snow particles if there is no block below.
+	"Powder Snow Particles" = true
+	#Hides the "Unobtainable" Tooltip under unobtainable items.
+	"Hide Unobtainable" = false
+	#Displays "Dyeable" tooltip under dyeable items.
+	"Dyeable Tooltip" = true
+

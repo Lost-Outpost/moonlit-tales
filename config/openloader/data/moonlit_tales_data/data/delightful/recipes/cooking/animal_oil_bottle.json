@@ -1,0 +1,29 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "delightful:enabled",
+          "value": "animal_oil_bottle"
+        }
+      ],
+      "recipe": {
+        "type": "farmersdelight:cooking",
+        "cookingtime": 200,
+        "experience": 0.35,
+        "ingredients": [
+          {
+            "item": "delightful:animal_fat"
+          },
+          {
+            "item": "delightful:animal_fat"
+          }
+        ],
+        "result": {
+          "item": "delightful:animal_oil_bottle"
+        }
+      }
+    }
+  ]
+}

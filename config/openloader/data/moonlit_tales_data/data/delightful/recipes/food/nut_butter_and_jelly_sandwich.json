@@ -1,0 +1,42 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "delightful:enabled",
+              "value": "nut_butter_and_jelly_sandwich"
+            },
+            {
+              "type": "forge:not",
+              "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:nuts"
+              }
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "tag": "forge:bread"
+          },
+          {
+            "item": "delightful:nut_butter_bottle"
+          },
+          {
+            "tag": "forge:jelly"
+          }
+        ],
+        "result": {
+          "item": "delightful:nut_butter_and_jelly_sandwich"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "delightful:enabled",
+              "value": "honey_glazed_walnut"
+            },
+            {
+              "type": "forge:not",
+              "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:nuts/walnut"
+              }
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shapeless",
+        "ingredients": [
+          {
+            "tag": "forge:nuts/walnut"
+          },
+          {
+            "tag": "forge:nuts/walnut"
+          },
+          {
+            "tag": "forge:nuts/walnut"
+          },
+          {
+            "item": "minecraft:honey_bottle"
+          }
+        ],
+        "result": {
+          "count": 3,
+          "item": "delightful:honey_glazed_walnut"
+        }
+      }
+    }
+  ]
+}

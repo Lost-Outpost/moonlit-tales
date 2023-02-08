@@ -1,0 +1,51 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "delightful:enabled",
+              "value": "clover_honey"
+            },
+            {
+              "type": "forge:mod_loaded",
+              "modid": "biomesoplenty"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "farmersdelight:cooking",
+        "cookingtime": 200,
+        "experience": 0.35,
+        "ingredients": [
+          {
+            "item": "minecraft:honey_bottle"
+          },
+          {
+            "item": "minecraft:honey_bottle"
+          },
+          {
+            "item": "delightful:chopped_clover"
+          },
+          {
+            "item": "delightful:chopped_clover"
+          },
+          {
+            "item": "delightful:chopped_clover"
+          },
+          {
+            "item": "delightful:chopped_clover"
+          }
+        ],
+        "result": {
+          "count": 3,
+          "item": "minecraft:honey_bottle"
+        }
+      }
+    }
+  ]
+}

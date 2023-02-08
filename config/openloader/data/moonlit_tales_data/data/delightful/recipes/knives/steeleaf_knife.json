@@ -1,0 +1,49 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "delightful:enabled",
+              "value": "steeleaf_knife"
+            },
+            {
+              "type": "forge:mod_loaded",
+              "modid": "twilightforest"
+            },
+            {
+              "type": "forge:not",
+              "value": {
+                "type": "forge:tag_empty",
+                "tag": "forge:ingots/steeleaf"
+              }
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "m": {
+            "tag": "forge:ingots/steeleaf"
+          },
+          "s": {
+            "tag": "forge:rods/wooden"
+          }
+        },
+        "pattern": [
+          "m",
+          "s"
+        ],
+        "result": {
+          "nbt": "{Enchantments:[{lvl:2s,id:\"minecraft:smite\"}]}",
+          "item": "delightful:steeleaf_knife",
+          "type": "minecraft:item_nbt"
+        }
+      }
+    }
+  ]
+}

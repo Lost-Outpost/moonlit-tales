@@ -1,0 +1,31 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "forge:and",
+          "values": [
+            {
+              "type": "delightful:enabled",
+              "value": "bone_knife"
+            },
+            {
+              "type": "forge:item_exists",
+              "item": "minecraft:bone_meal"
+            }
+          ]
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:blasting",
+        "cookingtime": 100,
+        "experience": 0.1,
+        "ingredient": {
+          "item": "delightful:bone_knife"
+        },
+        "result": "minecraft:bone_meal"
+      }
+    }
+  ]
+}

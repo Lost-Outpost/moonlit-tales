@@ -1,0 +1,22 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "delightful:enabled",
+          "value": "matcha"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:smelting",
+        "cookingtime": 200,
+        "experience": 0.1,
+        "ingredient": {
+          "tag": "forge:tea_leaves/green"
+        },
+        "result": "delightful:matcha"
+      }
+    }
+  ]
+}

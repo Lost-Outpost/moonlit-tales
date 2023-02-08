@@ -1,0 +1,32 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "delightful:enabled",
+          "value": "basalt_cabinet"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:crafting_shaped",
+        "key": {
+          "b": {
+            "item": "minecraft:basalt"
+          },
+          "c": {
+            "tag": "farmersdelight:cabinets/wooden"
+          }
+        },
+        "pattern": [
+          "bbb",
+          "bcb",
+          "bbb"
+        ],
+        "result": {
+          "item": "delightful:basalt_cabinet"
+        }
+      }
+    }
+  ]
+}

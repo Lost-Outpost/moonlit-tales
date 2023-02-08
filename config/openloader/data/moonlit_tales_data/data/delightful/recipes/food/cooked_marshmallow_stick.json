@@ -1,0 +1,22 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "type": "delightful:enabled",
+          "value": "cooked_marshmallow_stick"
+        }
+      ],
+      "recipe": {
+        "type": "minecraft:campfire_cooking",
+        "cookingtime": 600,
+        "experience": 0.5,
+        "ingredient": {
+          "item": "delightful:marshmallow_stick"
+        },
+        "result": "delightful:cooked_marshmallow_stick"
+      }
+    }
+  ]
+}

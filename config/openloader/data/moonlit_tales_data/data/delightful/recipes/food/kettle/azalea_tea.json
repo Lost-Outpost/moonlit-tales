@@ -1,0 +1,46 @@
+{
+  "type": "forge:conditional",
+  "recipes": [
+    {
+      "conditions": [
+        {
+          "values": [
+            {
+              "value": "azalea_tea",
+              "type": "delightful:enabled"
+            },
+            {
+              "item": "ecologics:azalea_flower",
+              "type": "forge:item_exists"
+            },
+            {
+              "modid": "farmersrespite",
+              "type": "forge:mod_loaded"
+            }
+          ],
+          "type": "forge:and"
+        }
+      ],
+      "recipe": {
+        "type": "farmersrespite:brewing",
+        "ingredients": [
+          {
+            "tag": "forge:tea_leaves/green"
+          },
+          {
+            "item": "ecologics:azalea_flower"
+          }
+        ],
+        "result": {
+          "item": "delightful:azalea_tea"
+        },
+        "container": {
+          "item": "minecraft:glass_bottle"
+        },
+        "experience": 0.35,
+        "brewingtime": 2400,
+        "needwater": false
+      }
+    }
+  ]
+}

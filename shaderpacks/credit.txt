@@ -1,0 +1,4 @@
+ComplementaryShaders_v4.4.zip
+https://www.curseforge.com/minecraft/customization/complementary-shaders
+
+Configured for use with the pack
