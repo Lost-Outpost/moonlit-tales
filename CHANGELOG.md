@@ -2,6 +2,18 @@
 
 # Changelog
 
+## Version 1.0.2 [Unreleased]
+
+### Updated
++ Woodworks
++ Comforts
++ Pineapple Delight
++ CraftTweaker
++ Epic Knights
++ Minecolonies
++ BlockUI
++ CreativeCore
+
 ## Version 1.0.1
 
 **Cut a lot of fat and add the rest of Team Abnormals fantastic mods. I will be doing more in-depth patching later on for some misc issues.**
