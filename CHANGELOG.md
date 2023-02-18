@@ -4,6 +4,10 @@
 
 ## Version 1.0.2 [Unreleased]
 
+### Added
++ Waddles
++ Windswept
+
 ### Updated
 + Woodworks
 + Comforts
