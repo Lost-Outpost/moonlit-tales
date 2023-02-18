@@ -13,6 +13,7 @@
 + Minecolonies
 + BlockUI
 + CreativeCore
++ Structurize
 
 ## Version 1.0.1
 
