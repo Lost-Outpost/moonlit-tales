@@ -6,8 +6,7 @@ Explore and build up your town in this beautifully expanded and carefully integr
 
 - Tech for improved automation from [Create](https://www.curseforge.com/minecraft/mc-mods/create), allowing you to create your own huge factories
 - Improved combat with [Better Combat](https://www.curseforge.com/minecraft/mc-mods/better-combat-by-daedelus) and [Epic Knights](https://www.curseforge.com/minecraft/mc-mods/epic-knights-armor-and-weapons) for much more diverse combat styles
-- Many new mobs and ambient creatures from [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) and [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) with a ton to find
-- Settlement mechanics from [MineColonies](https://www.curseforge.com/minecraft/mc-mods/minecolonies) where you can create your own town full of NPCs to come home to
+- Many new mobs and ambient creatures from [Ecologics](https://www.curseforge.com/minecraft/mc-mods/ecologics) and [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs) with a ton to fid
 - Teams and Territories from [OpenParties](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims) allowing you and your friends to claim territory on the map free from others
 - New farmables and things to cook with [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight), [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful) and [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
 - Tons of structures and overhauled vanilla structures from [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects)
