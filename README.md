@@ -27,6 +27,5 @@ For issues, provide details in the [Issues](https://github.com/Lost-Outpost/moon
 
 # Credits
 - [EminGTR - Complimentary Shaders](https://www.complementary.dev/)
-- [Vazkii - Bliss Modpack](https://www.curseforge.com/minecraft/modpacks/bliss)
 
 
