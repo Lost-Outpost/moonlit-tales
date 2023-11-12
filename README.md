@@ -10,7 +10,7 @@ Explore and build up your town in this beautifully expanded and carefully integr
 - Teams and Territories from [OpenParties](https://www.curseforge.com/minecraft/mc-mods/open-parties-and-claims) allowing you and your friends to claim territory on the map free from others
 - New farmables and things to cook with [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight), [Delightful](https://www.curseforge.com/minecraft/mc-mods/delightful) and [Farmer's Respite](https://www.curseforge.com/minecraft/mc-mods/farmers-respite)
 - Tons of structures and overhauled vanilla structures from [YUNGNICKYOUNG](https://www.curseforge.com/members/yungnickyoung/projects)
-- Tons of new biomes from [Biomes O' Plenty](https://www.curseforge.com/minecraft/mc-mods/biomes-o-plenty), [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental) and [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion) so you never get tired of exploring
+- Tons of new biomes from [Environmental](https://www.curseforge.com/minecraft/mc-mods/environmental) and [Infernal Expansion](https://www.curseforge.com/minecraft/mc-mods/infernal-expansion) so you never get tired of exploring
 - Additional Vanilla+ content mods like [Incubation](https://www.curseforge.com/minecraft/mc-mods/incubation), [Buzzier Bees](https://www.curseforge.com/minecraft/mc-mods/buzzier-bees), [Neapolitan](https://www.curseforge.com/minecraft/mc-mods/neapolitan), and [Berry Good](https://www.curseforge.com/minecraft/mc-mods/berry-good)
 
 # Community
